@@ -7,8 +7,8 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Lazar Kostic",
+  "license": "MIT",
   "dependencies": {
     "@hapi/joi": "^15.1.0",
     "bcryptjs": "^2.4.3",
